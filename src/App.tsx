@@ -1,9 +1,9 @@
-import { Navigation } from "./routes/navigation";
+import { Navigation } from './routes/Navigation';
 
 function App() {
   return (
     <>
-      <Navigation></Navigation>
+      <Navigation />
     </>
   );
 }
