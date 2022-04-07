@@ -15,8 +15,8 @@ export const ShoppingPage = () => {
         <hr/>
         <div className={styles.wrapContainer}>
             <ProductCard product={product}>
-                <ProductCard.Title title=""/>
                 <ProductCard.Image/>
+                <ProductCard.Title title=""/>
                 <ProductCard.Buttons/>
             </ProductCard>
         </div>
